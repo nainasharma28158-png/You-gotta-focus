@@ -1,0 +1,6 @@
+{
+  "name": "Kanso Focus — Minimalist Pomodoro & Daily Knowledge",
+  "description": "Minimalist Pomodoro timer with custom study blocks, ambient audio, and an active daily library of History Greats, AI & Technology, and Business studies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
